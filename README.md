@@ -28,7 +28,7 @@ An Android-based secure and interactive online voting system built using **Kotli
 
 ## 📸 Screenshots
 
-login screen (assets/ss1.jpg)
+Output images in assets folder
 
 
 ## 🚀 Getting Started
